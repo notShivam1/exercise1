@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Getting Started 
 
 clone the repo.
 
-## Available Scripts
+## Install dependencies
 
 run yarn or npm install.
 
